@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Lại Thu Trang</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cv-container">
+        <div class="header">
+            <img src="https://inkythuatso.com/uploads/thumbnails/800/2022/03/anh-dai-dien-zalo-50-29-15-13-16.jpg" alt="Lại Thu Trang" class="profile-img">
+            <div class="personal-info">
+                <h1>Lại Thu Trang</h1>
+                <h2>Nhân Viên Tư Vấn Bảo Hiểm</h2>
+                <ul class="contact-info">
+                    <li><strong>SĐT:</strong> 064 852 6967</li>
+                    <li><strong>Email:</strong> thutrang@gmail.com</li>
+                    <li><strong>Địa chỉ:</strong> Phường 21, Quận Đống Đa, Hà Nội</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="left-column">
+                <h3>Kinh Nghiệm Làm Việc</h3>
+                <div class="experience">
+                    <h4>Công Ty Bảo Hiểm CERTIV</h4>
+                    <p>(08/2017 - Nay)</p>
+                    <p>- Quản lý và tư vấn khách hàng</p>
+                    <p>- Đảm bảo doanh số bán hàng</p>
+                    <p>- Đào tạo và hỗ trợ đội nhóm</p>
+                </div>
+
+                <div class="experience">
+                    <h4>Ngân Hàng Eximbank</h4>
+                    <p>(07/2016 - 05/2017)</p>
+                    <p>- Chăm sóc khách hàng</p>
+                    <p>- Tư vấn dịch vụ và sản phẩm tài chính</p>
+                </div>
+
+                <h3>Trình Độ Học Vấn</h3>
+                <div class="education">
+                    <h4>Cao Đẳng Kinh Tế Hồ Chí Minh</h4>
+                    <p>(2014 - 2016)</p>
+                    <p>- Chuyên ngành Quản trị Kinh doanh</p>
+                    <p>- Xếp loại: Giỏi</p>
+                </div>
+
+                <h3>Hoạt Động</h3>
+                <p>- Tham gia các hoạt động thiện nguyện</p>
+
+                <h3>Dự Án Tham Gia</h3>
+                <p>- Dự án tư vấn bảo hiểm CERTIV</p>
+            </div>
+
+            <div class="right-column">
+                <h3>Mục Tiêu Nghề Nghiệp</h3>
+                <p>Phát triển kỹ năng quản lý và nâng cao kiến thức chuyên môn trong lĩnh vực bảo hiểm.</p>
+
+                <h3>Kỹ Năng</h3>
+                <ul>
+                    <li>Kỹ năng lãnh đạo</li>
+                    <li>Kỹ năng thuyết trình</li>
+                </ul>
+
+                <h3>Chứng Chỉ</h3>
+                <p>Chứng chỉ tư vấn bảo hiểm</p>
+
+                <h3>Sở Thích</h3>
+                <p>Đọc sách, du lịch</p>
+
+                <h3>Người Tham Chiếu</h3>
+                <p>Bà Trần Minh Thư - Giám Đốc Công Ty Bảo Hiểm CERTIV</p>
+                <p>0985 237 167</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
